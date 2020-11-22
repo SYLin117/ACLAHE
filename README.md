@@ -10,3 +10,5 @@ International Journal of Software Engineering and Its Applications Vol.7, No.5 (
 http://dx.doi.org/10.14257/ijseia.2013.7.5.11
 
 Run python3 main.py. The result will show up in the result directory.
+
+本專案為實踐https://www.researchgate.net/publication/274182255_A_Novel_Method_of_Determining_Parameters_of_CLAHE_Based_on_Image_Entropy論文
